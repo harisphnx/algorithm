@@ -1,0 +1,6 @@
+a =[]
+
+a.insert(a[0], 2)
+#a[1] = 5
+
+print a
