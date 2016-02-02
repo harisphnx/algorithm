@@ -1,5 +1,0 @@
-var1 = 10
-var2 = 45
-var3 = 76
-
-text = "Numbers are: %d, %d, %d." % (var1, var2, var3)
